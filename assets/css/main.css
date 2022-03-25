@@ -3345,7 +3345,7 @@ input, select, textarea {
 		}
 
 		#intro hr {
-			border-bottom-color: #ffffff;
+			border-bottom-color:#ffffff;
 		}
 
 		#intro input[type="submit"],
@@ -3756,7 +3756,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #ffffff49;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
